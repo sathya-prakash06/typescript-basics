@@ -1,15 +1,23 @@
 # typescript-basics
 
-
 ## What is Typescript
 
 - Typescript is a superset of JavaScript.
 
-- Install	
+- Install
+
+```
 npm install TypeScript
+```
 
-- Run	
+- Run
+
+```
 npx tsc
+```
 
-- Run with a specific config	
+- Run with a specific config
+
+```
 npx tsc --project configs/my_tsconfig.json
+```
